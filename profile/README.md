@@ -1,6 +1,6 @@
 # BombSquad: Explodinary
 
-Explodinary is a community driven modification of the game [BombSquad](*#what-is-bombsquad) that adds a variety of bomb types, maps and powerups while keeping a vanilla-like aesthetic.
+Explodinary is a community driven modification of the game [BombSquad](https://github.com/BombSquad-Explodinary#what-is-bombsquad) that adds a variety of bomb types, maps and powerups while keeping a vanilla-like aesthetic.
 #### You can download [BombSquad: Explodinary via GameJolt](https://gamejolt.com/games/explodinary/784397).
 
 ### Explodinary Team
