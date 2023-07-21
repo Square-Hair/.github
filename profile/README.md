@@ -7,7 +7,6 @@ Explodinary is a community driven modification of the game [BombSquad](https://g
 * [SoK](https://www.youtube.com/@SoK05/about) - Main developer & Lead Manager, Artist, Character & Map Designer
 * [Temp](https://www.youtube.com/@TrialTemp/about) - General developer & Helper
 * [TheMikirog](https://www.youtube.com/@TheMikirog/about) - Code support, Sound effect collaborator, Tester and General Helper
-* [Stratex](https://github.com/HypeStratex) - Code support for the "Unwanted Present" powerup, Tester
 * [Neo]() - Walleyville map, Tester
 #### Testers
 * Breaker (Breaker#6032)
