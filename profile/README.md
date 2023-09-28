@@ -3,7 +3,7 @@
 Explodinary is a community driven modification of the game [BombSquad](https://github.com/BombSquad-Explodinary#what-is-bombsquad) that adds a variety of bomb types, maps and powerups while keeping a vanilla-like aesthetic.
 #### You can download [BombSquad: Explodinary via GameJolt](https://gamejolt.com/games/explodinary/784397).
 
-### Explodinary Team
+### Square-Hair
 * [SoK](https://www.youtube.com/@SoK05/about) - Main developer & Lead Manager, Artist, Character & Map Designer
 * [Temp](https://www.youtube.com/@TrialTemp/about) - General developer & Helper
 * [TheMikirog](https://www.youtube.com/@TheMikirog/about) - Code support, Sound effect collaborator, Tester and General Helper
